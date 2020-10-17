@@ -19,10 +19,6 @@
   <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
-## :pushpin: Menu
-
-[Projeto](#projeto) | [Como executar](#executando-o-happy) | [Tecnologias](#tecnologias) | [Licença](#licença)
-
 ---
 
 ## 💻 Projeto
